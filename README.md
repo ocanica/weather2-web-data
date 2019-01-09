@@ -3,7 +3,7 @@
 An dynamic weather page that implements the [Open Weather Map API](https://openweathermap.org/). Allows the user to view the current weather conditions for a variety of UK based locations.
 
 ### Demo
-http://praxis.ocanica.com/weather1/
+http://praxis.ocanica.com/weather2/
 
 ### Getting Started
 Simply clone or fork (to contribute).
