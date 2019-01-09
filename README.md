@@ -1,6 +1,6 @@
 # weather2-web-data
 
-An dynamic weather page that implements the [Open Weather Map API](https://openweathermap.org/). Allows the user to view the current weather conditions for a variety of UK based locations.
+A dynamic weather page that implements the [Open Weather Map API](https://openweathermap.org/). Allows the user to view the current weather conditions for a variety of UK based locations.
 
 ### Demo
 http://praxis.ocanica.com/weather2/
